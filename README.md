@@ -7,6 +7,11 @@
 Component](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)
 > do Frontend Mentor. Nível: **Newbie** · Stack: **HTML5 · CSS3**
 ---
+### Screenshot
+
+![Blog Preview Card Solution](preview.jpg)
+
+---
 ## ■ Demo ao vivo
 **[■ Acesse aqui](https://danilo-guimaraes.github.io/frontend-mentor-profile-card/)**
 ---
